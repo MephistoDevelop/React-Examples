@@ -1,0 +1,10 @@
+body {
+  background-color: rgba(0, 0, 240, 0.6) !important;
+}
+#main-container {
+  background-color: chocolate;
+}
+#React {
+  background-color: rgba(30, 78, 22, 0.5);
+  color: whitesmoke;
+}
