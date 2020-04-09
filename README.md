@@ -2,16 +2,10 @@
 
 > Repository to save the basic functions from React components.
 
-![screenshot](./pageseafood.png)
-
 ## Built With Javascript and React Components
 
 - Html,Css,JavaScript
 - React
-
-## Live Demo
-
-[Live Demo Link]()
 
 ## Getting Started
 
@@ -33,7 +27,7 @@ To deploy the application and see it on the browser you can use npm to do that t
 run `npm install`
 run `npm run build`
 
-## Authors
+## Author
 
 👤 **Cristian Ines Hernandez A. - MephistoDevelop**
 
@@ -58,7 +52,3 @@ This page was inspired by my own bussines i'm a food-seller on my free times whi
 ## 📝 License
 
 This project is [MIT](lic.url) licensed.
-
-### Author:
-
-[Cristian Ines (MephistoDevelop)](https://github.com/MephistoDevelop)
