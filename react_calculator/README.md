@@ -1,12 +1,4 @@
-# React Calculator
-
-> Project taked from Microverse React & Redux Curriculum
-
-### Screenshot
-
-![screenshot](./dist/img/desktop.png)
-
-React calculator project.
+# React Various Examples Reopilation
 
 ## Built With Javascript, React Library
 
@@ -18,11 +10,10 @@ React calculator project.
 - npm manager
 - ES6
 
-## Live Demo
-
-[Live Demo Link]()
-
 ## Getting Started
+
+To use some of theprojects inside of this depository you only need to download to your computer with your prefeer code editor
+and run the installation commands.
 
 ### Prerequisites
 
@@ -37,7 +28,6 @@ To use this repo on your compuer you first need to run this commands:
 npm install eslint eslint-config-airbnb --save-dev
 
 npx eslint --init
-
 
 ```
 
@@ -74,7 +64,7 @@ The config that you've selected requires the following dependencies: ? Would you
 
 after you will need to enter to [Stickler Page](https://stickler-ci.com/) and activate your repository.
 
-## Authors
+## Author
 
 👤 **Cristian Ines Hernandez A. - MephistoDevelop**
 
@@ -95,7 +85,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](lic.url) licensed.
-
-### Author:
-
-[Cristian Ines (MephistoDevelop)](https://github.com/MephistoDevelop)
